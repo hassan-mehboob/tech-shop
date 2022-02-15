@@ -1,5 +1,5 @@
-./frontend/node_modules
+# node modules folder
 node_modules
 
-# ignore the file literally named config.env
-config.env
+# .env file
+backend/config/config.env
